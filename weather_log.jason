@@ -1,0 +1,210 @@
+[
+  {
+    "city": "Sydney",
+    "fetched_at": "2026-08-15T13:53:34.227193+00:00",
+    "weather": {
+      "time": "2026-08-15T23:45",
+      "interval": 900,
+      "temperature": 12.2,
+      "windspeed": 7.8,
+      "winddirection": 212,
+      "is_day": 0,
+      "weathercode": 1
+    }
+  },
+  {
+    "city": "Melbourne",
+    "fetched_at": "2026-08-15T13:53:36.422852+00:00",
+    "weather": {
+      "time": "2026-08-15T23:45",
+      "interval": 900,
+      "temperature": 9.2,
+      "windspeed": 6.2,
+      "winddirection": 158,
+      "is_day": 0,
+      "weathercode": 0
+    }
+  },
+  {
+    "city": "Sydney",
+    "fetched_at": "2026-08-15T13:53:34.227193+00:00",
+    "weather": {
+      "time": "2026-08-15T23:45",
+      "interval": 900,
+      "temperature": 12.2,
+      "windspeed": 7.8,
+      "winddirection": 212,
+      "is_day": 0,
+      "weathercode": 1
+    }
+  },
+  {
+    "city": "Melbourne",
+    "fetched_at": "2026-08-15T13:53:36.422852+00:00",
+    "weather": {
+      "time": "2026-08-15T23:45",
+      "interval": 900,
+      "temperature": 9.2,
+      "windspeed": 6.2,
+      "winddirection": 158,
+      "is_day": 0,
+      "weathercode": 0
+    }
+  },
+  {
+    "city": "Sydney",
+    "fetched_at": "2026-08-15T13:55:49.487014+00:00",
+    "weather": {
+      "time": "2026-08-15T23:45",
+      "interval": 900,
+      "temperature": 12.2,
+      "windspeed": 7.8,
+      "winddirection": 212,
+      "is_day": 0,
+      "weathercode": 1
+    }
+  },
+  {
+    "city": "Melbourne",
+    "fetched_at": "2026-08-15T13:55:51.584540+00:00",
+    "weather": {
+      "time": "2026-08-15T23:45",
+      "interval": 900,
+      "temperature": 9.2,
+      "windspeed": 6.2,
+      "winddirection": 158,
+      "is_day": 0,
+      "weathercode": 0
+    }
+  },
+  {
+    "city": "Sydney",
+    "fetched_at": "2026-08-15T13:57:13.043557+00:00",
+    "weather": {
+      "time": "2026-08-15T23:45",
+      "interval": 900,
+      "temperature": 12.2,
+      "windspeed": 7.8,
+      "winddirection": 212,
+      "is_day": 0,
+      "weathercode": 1
+    }
+  },
+  {
+    "city": "Melbourne",
+    "fetched_at": "2026-08-15T13:57:15.475494+00:00",
+    "weather": {
+      "time": "2026-08-15T23:45",
+      "interval": 900,
+      "temperature": 9.2,
+      "windspeed": 6.2,
+      "winddirection": 158,
+      "is_day": 0,
+      "weathercode": 0
+    }
+  },
+  {
+    "city": "Sydney",
+    "fetched_at": "2026-08-15T14:17:54.153999+00:00",
+    "weather": {
+      "time": "2026-08-16T00:15",
+      "interval": 900,
+      "temperature": 12.0,
+      "windspeed": 7.5,
+      "winddirection": 215,
+      "is_day": 0,
+      "weathercode": 1
+    }
+  },
+  {
+    "city": "Melbourne",
+    "fetched_at": "2026-08-15T14:17:56.344164+00:00",
+    "weather": {
+      "time": "2026-08-16T00:15",
+      "interval": 900,
+      "temperature": 8.9,
+      "windspeed": 5.8,
+      "winddirection": 160,
+      "is_day": 0,
+      "weathercode": 0
+    }
+  },
+  {
+    "city": "Sydney",
+    "fetched_at": "2026-08-15T14:25:08.519433+00:00",
+    "weather": {
+      "time": "2026-08-16T00:15",
+      "interval": 900,
+      "temperature": 12.0,
+      "windspeed": 7.5,
+      "winddirection": 215,
+      "is_day": 0,
+      "weathercode": 1
+    }
+  },
+  {
+    "city": "Melbourne",
+    "fetched_at": "2026-08-15T14:25:10.892705+00:00",
+    "weather": {
+      "time": "2026-08-16T00:15",
+      "interval": 900,
+      "temperature": 8.9,
+      "windspeed": 5.8,
+      "winddirection": 160,
+      "is_day": 0,
+      "weathercode": 0
+    }
+  },
+  {
+    "city": "Sydney",
+    "fetched_at": "2026-08-15T14:25:32.070170+00:00",
+    "weather": {
+      "time": "2026-08-16T00:15",
+      "interval": 900,
+      "temperature": 12.0,
+      "windspeed": 7.5,
+      "winddirection": 215,
+      "is_day": 0,
+      "weathercode": 1
+    }
+  },
+  {
+    "city": "Melbourne",
+    "fetched_at": "2026-08-15T14:25:34.375063+00:00",
+    "weather": {
+      "time": "2026-08-16T00:15",
+      "interval": 900,
+      "temperature": 8.9,
+      "windspeed": 5.8,
+      "winddirection": 160,
+      "is_day": 0,
+      "weathercode": 0
+    }
+  },
+  {
+    "city": "Sydney",
+    "fetched_at": "2026-08-15T14:28:32.589982+00:00",
+    "weather": {
+      "time": "2026-08-16T00:15",
+      "interval": 900,
+      "temperature": 12.0,
+      "windspeed": 7.5,
+      "winddirection": 215,
+      "is_day": 0,
+      "weathercode": 1
+    }
+  },
+  {
+    "city": "Melbourne",
+    "fetched_at": "2026-08-15T14:28:35.025555+00:00",
+    "weather": {
+      "time": "2026-08-16T00:15",
+      "interval": 900,
+      "temperature": 8.9,
+      "windspeed": 5.8,
+      "winddirection": 160,
+      "is_day": 0,
+      "weathercode": 0
+    }
+  }
+]
